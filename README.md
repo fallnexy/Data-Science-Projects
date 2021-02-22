@@ -1,5 +1,5 @@
-# data_sc
-В этом репозитории находятся проекты  
+# Data Science Projects
+В этом репозитории находятся проекты, выполненные в процессе обучения в Яндекс.Практуме по специальности Data Science  
 
 ### Statistical analysis of telecom tariffs
 
