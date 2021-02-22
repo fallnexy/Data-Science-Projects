@@ -1,7 +1,7 @@
 # data_sc
 В этом репозитории находятся проекты  
 
-# Statistical analysis of telecom tariffs
+### Statistical analysis of telecom tariffs
 
 #### Описание проекта
 
