@@ -1,7 +1,7 @@
 # Data Science Projects
 В этом репозитории находятся проекты, выполненные в процессе обучения в Яндекс.Практикуме по специальности Data Science  
 
-### Statistical analysis of telecom tariffs
+### Project 1: Statistical analysis of telecom tariffs
 
 #### Описание проекта
 Необходимо выяснить какой тариф приносит больше денег, чтобы телеком компания смогла скорректировать рекламный бюджет.
