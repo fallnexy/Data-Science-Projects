@@ -11,5 +11,5 @@
 Использованные библиотеки: **pandas**, **matplotlib**, **numpy**, **scipy**
 
 | Название проекта | Описание | Используемые библиотеки |
-| :-------------------- | ---------------------: |:---------------------------:|
-| [Statistical analysis of telecom tariffs](https://github.com/fallnexy/Data-Science-Projects/tree/main/statistical%20analysis%20of%20telecom%20tariffs) | с выравниванием справа | и с выравниванием по центру |
+| :-------------------- | :--------------------- |:---------------------------|
+| [Statistical analysis of telecom tariffs](https://github.com/fallnexy/Data-Science-Projects/tree/main/statistical%20analysis%20of%20telecom%20tariffs) | Необходимо выяснить какой тариф приносит больше денег, чтобы телеком компания смогла скорректировать рекламный бюджет | **pandas**, **matplotlib**, **numpy**, **scipy** |
