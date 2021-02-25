@@ -1,4 +1,4 @@
-# Bank Turnover
+# Bank turnover
 
 [Источник данных](https://www.kaggle.com/barelydedicated/bank-customer-churn-modeling)
 #### Описание проекта
