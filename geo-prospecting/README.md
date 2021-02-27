@@ -1,8 +1,10 @@
-# Data Science Projects
-В этом репозитории находятся проекты, выполненные в процессе обучения в Яндекс.Практикуме по специальности Data Science  
+# Geo-prospecting
 
-| Название проекта | Описание | Используемые библиотеки |
-| :-------------------- | :--------------------- |:---------------------------|
-| [Statistical analysis of telecom tariffs](https://github.com/fallnexy/Data-Science-Projects/tree/main/statistical%20analysis%20of%20telecom%20tariffs) | Необходимо выяснить какой тариф приносит больше денег, чтобы телеком компания смогла скорректировать рекламный бюджет | **pandas**, **matplotlib**, **numpy**, **scipy** |
-|[Recommendation of telecom tariffs](https://github.com/fallnexy/Data-Science-Projects/tree/main/recommendation%20of%20telecom%20tariffs)|Мобильный оператор хочет предложить клиентам один из новых тарифов, для этого необходимо научится предлагать подходящий тариф|**pandas**, **sklearn**, **numpy**|
-|[Bank turnover](https://github.com/fallnexy/Data-Science-Projects/tree/main/bankTurnover)|Необходимо спрогнощировать, уйдёт клиент из банка в ближайшее время или нет|**pandas**, **sklearn**, **numpy**, **matplotlib**|
+#### Описание проекта
+Добывающей природные ресурсы компании нужно решить, где бурить новую скважину.
+
+#### Задача
+Предоставлены пробы нефти в трёх регионах: в каждом 100 000 месторождений, у ноторых измерили некие параметры. Необходимо постройте модель машинного обучения, которая поможет определить регион, где добыча принесёт наибольшую прибыль.
+
+#### Используемые библиотеки
+pandas, sklearn, numpy, scipy 
