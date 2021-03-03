@@ -8,3 +8,4 @@
 |[Bank turnover](https://github.com/fallnexy/Data-Science-Projects/tree/main/bank%20turnover)|Необходимо спрогнощировать, уйдёт клиент из банка в ближайшее время или нет|**pandas**, **sklearn**, **numpy**, **matplotlib**|
 |[Geo-prospecting](https://github.com/fallnexy/Data-Science-Projects/tree/main/geo-prospecting)|Добывающей природные ресурсы компании нужно решить, где бурить новую скважину|**pandas**, **sklearn**, **numpy**, **scipy**|
 |[Gold recovery](https://github.com/fallnexy/Data-Science-Projects/tree/main/gold%20recovery)|Подготовка прототипа модели машинного обучения для увеличения эффективности работы промышленного предприятия|**pandas**, **sklearn**, **numpy**, **seaborn**, **matplotlib**|
+|[Cars sale](https://github.com/fallnexy/Data-Science-Projects/tree/main/carsSale)|Построение модели для определения рыночной стоимости автомобиля|**pandas**, **numpy**, **seaborn**, **lightgbm**, **catboost**, **sklearn**|
