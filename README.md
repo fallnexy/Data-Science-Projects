@@ -1,6 +1,6 @@
 # Data Science Projects
 В этом репозитории находятся проекты, выполненные в процессе обучения в Яндекс.Практикуме по специальности Data Science. 
-[Сертификат](https://github.com/fallnexy/Data-Science-Projects/blob/main/Certificate.pdf) 
+[Сертификат](https://github.com/fallnexy/Data-Science-Projects/blob/main/Certificate.pdf)  
 Источник данных - Я.Практикум, если в проекте не указан другой источник.
 
 | Название проекта | Описание | Используемые библиотеки |
