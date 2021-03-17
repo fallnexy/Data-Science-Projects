@@ -9,3 +9,4 @@
 |[Geo-prospecting](https://github.com/fallnexy/Data-Science-Projects/tree/main/geo-prospecting)|Добывающей природные ресурсы компании нужно решить, где бурить новую скважину|**pandas**, **sklearn**, **numpy**, **scipy**|
 |[Gold recovery](https://github.com/fallnexy/Data-Science-Projects/tree/main/gold%20recovery)|Подготовка прототипа модели машинного обучения для увеличения эффективности работы промышленного предприятия|**pandas**, **sklearn**, **numpy**, **seaborn**, **matplotlib**|
 |[Cars sale](https://github.com/fallnexy/Data-Science-Projects/tree/main/carsSale)|Построение модели для определения рыночной стоимости автомобиля|**pandas**, **numpy**, **seaborn**, **lightgbm**, **catboost**, **sklearn**|
+|[One hour forecast](https://github.com/fallnexy/Data-Science-Projects/tree/main/one%20hour%20forecast)|Построение модели для прогнозирования количества заказов такси|**pandas**, **numpy**, **matplotlib**, **lightgbm**, **statsmodels**, **sklearn**|
